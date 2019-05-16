@@ -1,1 +1,30 @@
-<svg width="282" height="282" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M94.103 0C134.447 0 144 9.553 144 49.897v44.206C144 134.447 134.447 144 94.103 144H49.897C9.553 144 0 134.447 0 94.103V49.897C0 9.553 9.553 0 49.897 0h44.206z" id="b"/><filter x="-86.8%" y="-59%" width="273.6%" height="273.6%" filterUnits="objectBoundingBox" id="a"><feOffset dy="40" in="SourceAlpha" result="shadowOffsetOuter1"/><feGaussianBlur stdDeviation="35" in="shadowOffsetOuter1" result="shadowBlurOuter1"/><feColorMatrix values="0 0 0 0 0.250980392 0 0 0 0 0.450980392 0 0 0 0 0.670588235 0 0 0 0.24 0" in="shadowBlurOuter1"/></filter></defs><g fill="none" fill-rule="evenodd"><g transform="translate(69 29)"><use fill="#000" filter="url(#a)" xlink:href="#b"/><use fill="#FFF" xlink:href="#b"/></g><g fill-rule="nonzero"><path d="M163 133.162v-63.34c0-3.202-2.595-5.822-5.8-5.822h-33.4c-3.19 0-5.8 2.605-5.8 5.822v63.356c0 3.202 2.595 5.822 5.8 5.822h33.4c3.19-.015 5.8-2.62 5.8-5.838z" fill="#4680C2"/><path d="M123.8 67.754h33.4c1.129 0 2.06.92 2.06 2.068v3.923h-37.52v-3.923c0-1.149.931-2.068 2.06-2.068z" fill="#FFF"/><path d="M121.74 133.162v-60.3h37.505v60.3a2.066 2.066 0 0 1-2.06 2.069H123.8c-1.13 0-2.061-.92-2.061-2.069z" fill="#FFF"/><path d="M146.855 65h-12.71c-1.739 0-3.145 1.341-3.145 3s1.406 3 3.145 3h12.71c1.739 0 3.145-1.341 3.145-3s-1.406-3-3.145-3z" fill="#4680C2"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="282px" height="282px" viewBox="0 0 282 282" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/icon-smartphone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M94.1030346,0 C134.447424,0 144,9.55257586 144,49.8969654 L144,94.1030346 C144,134.447424 134.447424,144 94.1030346,144 L49.8969654,144 C9.55257586,144 0,134.447424 0,94.1030346 L0,49.8969654 C0,9.55257586 9.55257586,0 49.8969654,0 L94.1030346,0 Z" id="path-1"></path>
+        <filter x="-86.8%" y="-59.0%" width="273.6%" height="273.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="35" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.250980392   0 0 0 0 0.450980392   0 0 0 0 0.670588235  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="current" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="screens/desktop-frontend" transform="translate(-91.000000, -1692.000000)">
+            <g id="assets/icon-smartphone" transform="translate(160.000000, 1721.000000)">
+                <g id="Path-Copy-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="assets/smartphone" transform="translate(49.000000, 35.000000)" fill-rule="nonzero">
+                    <path d="M45,69.1624106 L45,5.82226762 C45,2.62002043 42.4050204,0 39.1994573,0 L5.80054274,0 C2.61024423,0 0,2.60469867 0,5.82226762 L0,69.1777324 C0,72.3799796 2.59497965,75 5.80054274,75 L39.1994573,75 C42.3897558,74.9846782 45,72.3799796 45,69.1624106 Z" id="Shape" fill="#4680C2"></path>
+                    <path d="M5.80054274,3.75383044 L39.1994573,3.75383044 C40.3290366,3.75383044 41.2601764,4.67313585 41.2601764,5.82226762 L41.2601764,9.74463739 L3.73982361,9.74463739 L3.73982361,5.82226762 C3.73982361,4.67313585 4.67096336,3.75383044 5.80054274,3.75383044 Z" id="Path" fill="#FFFFFF"></path>
+                    <path d="M3.73982361,69.1624106 L3.73982361,8.86210419 L41.2449118,8.86210419 L41.2449118,69.1624106 C41.2449118,70.2962206 40.3290366,71.2308478 39.1841927,71.2308478 L5.80054274,71.2308478 C4.67096336,71.2308478 3.73982361,70.3115424 3.73982361,69.1624106 Z" id="Path" fill="#FFFFFF"></path>
+                    <path d="M28.8546433,1 L16.1453567,1 C14.4064603,1 13,2.34146341 13,4 C13,5.65853659 14.4064603,7 16.1453567,7 L28.8546433,7 C30.5935397,7 32,5.65853659 32,4 C32,2.34146341 30.5935397,1 28.8546433,1 Z" id="Path" fill="#4680C2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
